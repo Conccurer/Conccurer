@@ -27,9 +27,9 @@
 
 #
 # 📊 GitHub Stats:
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conccurer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conccurer&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conccurer&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Conccurer&langs_count=8&theme=dark)
 
 
 ## 🌐 Socials:
@@ -40,6 +40,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Conccurer&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Conccurer&icon=2&color=0)]
