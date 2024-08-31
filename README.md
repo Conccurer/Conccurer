@@ -1,4 +1,4 @@
-# 👨‍💻 Conccurer
+# 👨‍💻 Hi, I'm Conccurer!
 
 **`Data Scientist`**
 
@@ -20,3 +20,5 @@ I'm a Computer Science Student with intern level experince in Data Science. My g
 <br />
 
 #
+
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conccurer)](https://github.com/anuraghazra/github-readme-stats)
