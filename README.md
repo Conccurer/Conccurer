@@ -21,4 +21,4 @@ I'm a Computer Science Student with intern level experince in Data Science. My g
 
 #
 
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conccurer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conccurer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
