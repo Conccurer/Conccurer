@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Conccurer!
+# 👨‍💻 Hi, I'm Anirudh!
 
 **`Data Scientist`**
 
